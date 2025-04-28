@@ -5,7 +5,7 @@ Click demo to try it by yourself!
 ## Art Template
 
 You can view the site here
-[Click Me](https://dazzling-gumption-41c153.netlify.app/)
+[Click Me](https://musical-pithivier-35e8dd.netlify.app/)
 
 ## Topics
 
